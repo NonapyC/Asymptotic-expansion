@@ -139,8 +139,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
-
+![output_17_0](https://user-images.githubusercontent.com/54795218/117119938-ac90be00-adcd-11eb-8f5d-3b287d08657a.png)
 
 第1種ベッセル関数は
 $x\rightarrow 0$の極限の下ではべき級数展開によって以下のように定義することもできる。
@@ -169,7 +168,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![output_20_0](https://user-images.githubusercontent.com/54795218/117119944-adc1eb00-adcd-11eb-9d35-1dc28342696a.png)
 
 
 このように、べき級数展開による近似は$x$が小さい値を取る領域では良い近似となるものの、$x$が大きい値を取る領域では良い近似ではなくなることがわかる。
@@ -209,7 +208,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![output_25_0](https://user-images.githubusercontent.com/54795218/117119947-ae5a8180-adcd-11eb-8964-21fefdfaf2fc.png)
 
 
 このように、漸近級数展開による近似は$x$が小さい値を取る領域では良い近似とはならないものの、$x$が大きい値を取る領域では良い近似であることがわかる。
@@ -284,7 +283,7 @@ plt.show()
 ```
 
 
-![png](output_32_0.png)
+![output_32_0](https://user-images.githubusercontent.com/54795218/117119952-aef31800-adcd-11eb-8f40-aa8d7c1e40ec.png)
 
 
 このように、漸近展開で高次の項を入れていくことで、解析解に近づいていくことが分かる。
